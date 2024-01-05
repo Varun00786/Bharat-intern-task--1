@@ -6,5 +6,5 @@ It recommends a Anime Series and Movie as it is Based on a Anime Dataset.
 ## Features
 It is based on the collaborative filtering for reommendations.
 Collaborative Filtering: Utilizes user preferences and behaviors to suggest movies.
-## Database 
+## Database Used 
 ### https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
